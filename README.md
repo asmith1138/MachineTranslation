@@ -13,3 +13,4 @@ MT.eng-deu.transformer.paper.ipynb is a german implementation of the Tensorflow 
 
 MT.eng-deu.transformer.custom.ipynb is a german implementation of the Tensorflow example code for transformers using 512-dimension and 16 layers 16 heads
 
+The 3 transformer notebooks require the tokenizer trained by the MT_subwords_tokenizer to run
